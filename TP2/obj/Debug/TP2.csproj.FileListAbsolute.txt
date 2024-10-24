@@ -1,0 +1,6 @@
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\luciano.cenatiempo\Documents\SharpDevelop Projects\TP2\TP2\obj\Debug\TP2.pdb
